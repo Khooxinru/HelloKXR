@@ -1,0 +1,7 @@
+<resources>
+    //use it more than 1
+    <string name="app_name">Hello KXR</string>
+    <string name="my_name">Khoo Xin Ru</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+</resources>
